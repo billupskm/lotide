@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@bilaal.km/lotide",
   "version": "1.0.0",
   "description": "Lodash Library Implementation",
   "main": "assertArraysEqual.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/billupskm/lotide.git"
   },
-  "author": "",
+  "author": "Bilal Mohamed",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/billupskm/lotide/issues"
