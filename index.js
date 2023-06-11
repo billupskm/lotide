@@ -36,5 +36,4 @@ module.exports = {
   middle,
   map,
   takeUntil
-
 };
