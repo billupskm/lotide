@@ -44,5 +44,3 @@ index: list of all the functions in an object
 letterPositions: function that returns all the indices in the string where each character is found
 takeUntil: function that returns a slice of the array with elements taken from the beginning
 without: function that removes elements from an array
-
-
